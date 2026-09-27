@@ -88,4 +88,4 @@ backend/
 ## Notes
 
 - If a `backend` folder already exists, ask the user before overwriting or pick another name.
-- If the user names the project differently, use that name instead of `backend` everywhere.
+- If the user names the project differently, use that name instead of `backend` everywhere.c

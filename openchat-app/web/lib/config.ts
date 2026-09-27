@@ -3,7 +3,7 @@
  * The user is a placeholder until authentication is added.
  */
 export const APP_CONFIG = {
-  appName: "OpenChat",
+  appName: "Assistant",
   appDescription: "An open-source AI chat assistant",
   user: {
     name: "Usman",
